@@ -1,4 +1,4 @@
-# Aliasing ActiveRecord Associations- Overview
+# Video: Aliasing Active Record Associations - Overview
 
 This video review lesson covers many of the concepts that you've learned about in this topic so far. To get the most out of these videos we recommend that you complete the Readings and Labs that come before it. 
 
